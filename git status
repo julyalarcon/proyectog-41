@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex bbff295..f000297 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,5 @@[m
+[31m-<p>Soy un parrafo</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>Soy un parrafo</p>[m
+[32m+[m
+[32m+[m[32m<a href="nosotros.html"> Nosotros </a>[m
+[32m+[m[32m<a href="precios.html"> Precios </a>[m
+[41m+[m
